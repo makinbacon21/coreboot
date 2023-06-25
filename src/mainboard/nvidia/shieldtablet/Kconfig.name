@@ -1,0 +1,4 @@
+comment "Shieldtablet"
+
+config BOARD_NVIDIA_SHIELDTABLET
+	bool "->  shieldtablet"
